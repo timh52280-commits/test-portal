@@ -1,0 +1,6 @@
+{
+  "name": "Portal Multiva",
+  "description": "Portal empresarial de solicitudes de pago, facturas, contrapagos y autorización de pólizas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
